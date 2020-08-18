@@ -2,7 +2,7 @@ const oracledb = require('oracledb');
 var config = {
     user:'sde',
     password:'sde',
-    connectString : "xxx:1521/orcl"}
+    connectString : "10.136.6.35:1521/orcl"}
     ;
     let allsql = function(valus) {
  
